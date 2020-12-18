@@ -1,6 +1,6 @@
 *://www.imobie.jp/*
 *://www.5kplayer.com/*
-*://wondershare.jp/*
+*://*.wondershare.jp/*
 *://www.tenorshare.jp/*
 *://jp.easeus.com/*
 *://www.syncios.jp/*
@@ -25,3 +25,7 @@
 *://www.noteburner.jp/*
 *://www.any-video-converter.com/*
 *://jp.videoproc.com/*
+*://www.partitionwizard.jp/*
+*://jp.wisecleaner.com/*
+*://jp.minitool.com/*
+*://ja.magicqsoftware.com/*
